@@ -61,7 +61,7 @@ body::before {
 
 .int-area label.warning {
     color: red !important;
-    animation: warning .3s ease;
+    animation: warning .4s ease;
     animation-iteration-count: 3;
 }
 
